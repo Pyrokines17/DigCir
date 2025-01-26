@@ -1,1 +1,1 @@
-# Repository for digital circuitry labs
+# Repository for "Digital circuitry" labs
